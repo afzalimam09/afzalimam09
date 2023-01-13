@@ -30,7 +30,7 @@
 
 <p align="left"> 
 
-<a href="https://www.linkedin.com/in/afzalimamias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> 
+<a href="https://www.linkedin.com/in/afzalimam09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> 
 </p>
 
 <br />
