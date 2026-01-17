@@ -2,7 +2,7 @@
 
 ## I'm a MERN-stack Developer and Blockchain Enthusiast!
 * 🔭  I build projects in free time
-* 🌍  I'm based in Odisha, India (at present)
+* 🌍  I'm based in Bengaluru, India
 * ✉️  You can contact me at [afzalimam09@gmail.com](mailto:afzalimam09@gmail.com)
 * 🤝  I'm open to collaborating on Open-Source Projects
 
